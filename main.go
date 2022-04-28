@@ -1,5 +1,7 @@
 package main
 
+// for is an example of methods in GO
+
 import "fmt"
 
 func main() {
@@ -41,3 +43,18 @@ func main() {
 	}
 
 }
+
+// output :
+// 1
+// 2
+// 3
+// 7
+// 8
+// 9
+// loop
+// 1
+// 3
+// 5
+
+// more details :
+//The third example is an infinite loop that can be stopped with the break keyword
